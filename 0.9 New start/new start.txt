@@ -1,0 +1,23 @@
+namespace WndDesign{
+
+}
+
+
+PeekMessage
+
+ScrollBar
+
+doublelist
+
+msgblocking
+
+Wnd class : Shape : Figure 
+
+Animaiton : Figure
+
+WndStyles
+
+use c++ features, like STL, exception, etc.
+
+
+

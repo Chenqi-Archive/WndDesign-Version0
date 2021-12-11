@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="WndDesign.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="basic\Board.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="lib\matrix.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="basic\Figure.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="shape\Shape.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="sys\File.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="wnd\Wnd.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="file\BMPFile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="wnd\wndtypes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="wnd\BasicWnds.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="wnd\BasicControls.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="shape\BasicShapes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="shape\Animation.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="shape\Plot.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="shape\Paint.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="shape\Bitmap.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="shape\Pattern.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="shape\BasicAnimations.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="wnd\SysWndMng.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="sys\Cursor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="basic\basictypes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="basic\type.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="wnd\WndBitmap.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="sys\Timer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="sys\SysWnd.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="sys\Mutex.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="file\TTFFile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
